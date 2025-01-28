@@ -148,7 +148,7 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## 📄 Credits
 
-- Built with ❤️ by [Your Name](https://github.com/your-username).
+- Built with ❤️ by [Jahid Hossan](https://github.com/Jahid-Hossan).
 - Inspired by [Expo](https://expo.dev/) and [Tailwind CSS](https://tailwindcss.com/).
 
 ---

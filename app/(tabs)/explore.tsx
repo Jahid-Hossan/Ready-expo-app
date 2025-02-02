@@ -37,7 +37,7 @@ export default function TabTwoScreen() {
           <ThemedText type="link">Learn more</ThemedText>
         </ExternalLink>
       </Collapsible>
-      <Text className='text-3xl'>this is text</Text>
+      <Text className='text-3xl text-red-500'>this is text</Text>
       <Collapsible title="Android, iOS, and web support">
         <ThemedText>
           You can open this project on Android, iOS, and the web. To open the web version, press{' '}
